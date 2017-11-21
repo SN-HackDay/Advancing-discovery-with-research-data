@@ -1,7 +1,7 @@
 
 # **Use cases and ideas for potential hacks**
 
-##`Some potential use cases`
+## `Some potential use cases`
 
 | Use case      | Themes        | Resources     |
 | ------------- | ------------- | ------------- |
