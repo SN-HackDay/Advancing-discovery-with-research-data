@@ -36,7 +36,7 @@ Building on the success of the last Springer Nature SciGraph Hack Day, participa
 - Data visualisation
 - Data curation
 
-### [**We already have some great suggested use cases and ideas, check them out here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/USE_CASES_AND_IDEAS.md)
+### [***We already have some great suggested use cases and ideas, check them out here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/USE_CASES_AND_IDEAS.md)
 
 ## `What data and systems will be available?`
 
@@ -51,7 +51,7 @@ Data sources include:
 - [Registry of Research Data Repositories](https://www.re3data.org/api/doc)
 - Several Springer Nature APIs (available on the day and including fulltext access for 1000s of journals)
 
-### [**Access more about the content sources here**](link to be added)
+### [***Access more about the content sources here***](link to be added)
 
 ## `Agenda`
 Wednesday, 29 November 2017
