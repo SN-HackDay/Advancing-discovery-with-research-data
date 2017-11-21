@@ -67,6 +67,6 @@ Wednesday, 29 November 2017
 - 6 pm-open end: Social event: let’s grab a drink @ a pub
 
 ## `Why hack for advancing discovery`
-The benefits of improving research data (through curation, linking or visualisation) impact individual researchers, specific research communities and society as a whole.
+The benefits of improving research data (through curation, linking or visualisation) impact on individual researchers, specific research communities and society as a whole. Improving research data's findability, accessibility, reusability and interoperability will improve science as a whole!
 
 ![](http://resource-cms.springer.com/springer-cms/rest/v1/content/15157986/data/v3)
