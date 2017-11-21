@@ -36,7 +36,7 @@ Building on the success of the last Springer Nature SciGraph Hack Day, participa
 - Data visualisation
 - Data curation
 
-###[**We already have some great suggested use cases and ideas, check them out here***](add in link)
+###[**We already have some great suggested use cases and ideas, check them out here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/USE_CASES_AND_IDEAS.md)
 
 ## `What data and systems will be available?`
 
