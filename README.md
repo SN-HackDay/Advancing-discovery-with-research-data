@@ -5,7 +5,7 @@
 # Welcome to the **Springer Nature Hack Day: Advancing discovery with published research data**!
 =======
 
-### [**Looking to join a team? Chat with other participants by using the 'Conversations' section of the Springer Nature research data community**](https://researchdata.springernature.com/users/69154-springer-nature/posts/21380-hack-day-advancing-discovery-with-published-research-data)
+
 =======
 
 #### **29 Nov 2017, 9am - 6pm**
