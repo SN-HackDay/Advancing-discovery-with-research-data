@@ -1,5 +1,7 @@
 
-## **Use cases and ideas for potential hacks**
+# **Use cases and ideas for potential hacks**
+
+##`Some potential use cases`
 
 | Use case      | Themes        | Resources     |
 | ------------- | ------------- | ------------- |
@@ -16,7 +18,7 @@
 | Create focused resources from general repositories for specific types of data/files/disciplines e.g. image files in medicine | Data linking, Data curation (tool/application)  | Repository APIs e.g. figshare, subject taxonomies |
 | Develop machine learning techniques for image files | Data curation (machine learning/AI)  | Repository APIs e.g. figshare, subject taxonomies |
 
-## `Specific ideas for hacks`
+## `Some specific ideas for hacks`
 - A journal editor who wants to encourage data sharing by recommending specific data repositories to authors submitting to their journal might benefit from a data repository identification and selection tool. Lists of research data repositories, research disciplines from the latest SN SciGraph along with publication data might help with this tool.
 - Could data from publications, subject ontologies and data repository APIs help a researcher or data librarian, who wants to make research data management more efficient, automatically generate research data metadata? And, could machine learning techniques be applied to particular types of data file (e.g. images) to aid data curation, such as classification of image files?
 - Publishers, researchers, editors, librarians and infrastructure providers can all benefit (more readership, more citations, improved reader experience) from improved data-article linking. A simple approach more publishers could take is using the DataCite - DataCite mint DOIs for datasets - API to identify datasets linking to their DOIs. But research data identification is complex, with thousands of publicly available datasets not having DOIs but other types of identifier. We’re also preparing a curated list of repositories and identifier types, such as accession codes, that could accelerate creation of discipline specific linking solutions.
