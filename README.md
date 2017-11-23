@@ -5,7 +5,7 @@
 # Welcome to the **Springer Nature Hack Day: Advancing discovery with published research data**!
 =======
 
-### [**Looking to join a team? Have ideas for hacks? All participants are invited to meet at 11am on Friday 24th to discuss ideas and team formation. We will be using the 'Conversations' section of the Springer Nature research data community to do this - click here to visit the community.**](https://researchdata.springernature.com/users/69154-springer-nature/posts/21380-hack-day-advancing-discovery-with-published-research-data)
+### [**Looking to join a team? Have ideas for hacks? All participants are invited to meet at 2pm on Monday 27th to discuss ideas and team formation. We will be using the 'Conversations' section of the Springer Nature research data community to do this - click here to visit the community.**](https://researchdata.springernature.com/users/69154-springer-nature/posts/21380-hack-day-advancing-discovery-with-published-research-data)
 
 =======
 
