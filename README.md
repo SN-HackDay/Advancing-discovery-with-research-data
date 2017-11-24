@@ -56,6 +56,8 @@ Data sources include:
 
 ### [***Chat room***](https://gitter.im/Springer-Nature-Hack-Day/Lobby)
 
+### [***Google Cloud Platform is avaibale during hackday for VMs, Databases, Storage, Machine Learning and more***](https://cloud.google.com/)
+
 ## `Agenda`
 Wednesday, 29 November 2017
 	
