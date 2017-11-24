@@ -54,6 +54,8 @@ Data sources include:
 
 ### [***Access more about the content sources here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md)
 
+### [***Chat room***](https://gitter.im/Springer-Nature-Hack-Day/Lobby)
+
 ## `Agenda`
 Wednesday, 29 November 2017
 	
