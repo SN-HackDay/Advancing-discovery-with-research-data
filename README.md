@@ -52,7 +52,7 @@ Data sources include:
 - [Registry of Research Data Repositories](https://www.re3data.org/api/doc)
 - Several Springer Nature APIs (available on the day and including fulltext access for 1000s of journals)
 
-### [***Access more about the content sources here***](link to be added)
+### [***Access more about the content sources here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md)
 
 ## `Agenda`
 Wednesday, 29 November 2017
