@@ -12,6 +12,7 @@ Provides metadata for almost 12 million online documents (e.g., journal articles
 
 [Sign-up](https://dev.springer.com/)
 
+
 Example:
 
 [http://api.springer.com/metadata/json?q=doi:10.1007/s10404-009-0428-3&p=2&api_key=<your_key>](http://api.springer.com/metadata/json?q=doi:10.1007/s10404-009-0428-3&p=2&api_key=<your_key>)
@@ -20,6 +21,7 @@ Example:
 Provides new versioned metadata for almost 12 million online documents (e.g., journal articles, book chapters, protocols). It contains Springer Journals and Books (including BMC).
 
 [Sign-up](https://dev.springer.com/)
+
 
 Example:
 
@@ -30,6 +32,7 @@ Example:
 Provides metadata and full-text content where available for more than 460,000 online documents. It contains Springer Journals and Books (including BMC). 
 
 [Sign-up](https://dev.springer.com/)
+
 
 Example:
 
@@ -46,6 +49,7 @@ Provides a means to access information about Springer’s journals (e.g., Inform
 Provides metadata and full-text content where available for almost 12 million online documents. It contains Springer Journals and Books (including BMC), Palgrave Books and Journals
 
 [Sign-up](https://dev.springer.com/)
+
 
 Example:
 
