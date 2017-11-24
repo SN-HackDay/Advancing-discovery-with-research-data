@@ -13,6 +13,7 @@ Provides metadata for almost 12 million online documents (e.g., journal articles
 [Sign-up](https://dev.springer.com/)
 
 Example:
+
 [http://api.springer.com/metadata/json?q=doi:10.1007/s10404-009-0428-3&p=2&api_key=<your_key>](http://api.springer.com/metadata/json?q=doi:10.1007/s10404-009-0428-3&p=2&api_key=<your_key>)
 
 ### Springer Meta API 
@@ -21,6 +22,7 @@ Provides new versioned metadata for almost 12 million online documents (e.g., jo
 [Sign-up](https://dev.springer.com/)
 
 Example:
+
 [http://api.springer.com/meta/v1/json?q=doi:10.1007/s10404-009-0428-3&p=2&api_key=<your_key>](http://api.springer.com/meta/v1/json?q=doi:10.1007/s10404-009-0428-3&p=2&api_key=<your_key>)
 
 ### Springer Open Access API
@@ -30,6 +32,7 @@ Provides metadata and full-text content where available for more than 460,000 on
 [Sign-up](https://dev.springer.com/)
 
 Example:
+
 [http://api.springer.com/openaccess/app?q=doi:10.1007/s40204-015-0036-0&api_key=<your_key>](http://api.springer.com/openaccess/app?q=doi:10.1007/s40204-015-0036-0&api_key=<your_key>)
 
 ### Integro API
@@ -45,6 +48,7 @@ Provides metadata and full-text content where available for almost 12 million on
 [Sign-up](https://dev.springer.com/)
 
 Example:
+
 [http://api.springer.com/xmldata/app?q=book:%22Advances%20in%20Cryogenic%20Engineering%22&api_key=<your_key>&s=1&p=3](http://api.springer.com/xmldata/app?q=book:%22Advances%20in%20Cryogenic%20Engineering%22&api_key=<your_key>&s=1&p=3)
 
 ### Academic Knowledge API | Microsoft Azure
