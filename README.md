@@ -51,12 +51,12 @@ Data sources include:
 - [Registry of Research Data Repositories](https://www.re3data.org/api/doc)
 - [Several Springer Nature APIs](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md) (available on the day and including fulltext access for 1000s of journals)
 
+### Other tools
 
-### [***Chat room***](https://gitter.im/Springer-Nature-Hack-Day/Lobby)
+* [***Chat room***](https://gitter.im/Springer-Nature-Hack-Day/Lobby)
+* [***Google Cloud Platform is avaibale during hackday for VMs, Databases, Storage, Machine Learning and more***](https://cloud.google.com/)
+* [***Colaboratory***](https://g.co/colab)
 
-### [***Google Cloud Platform is avaibale during hackday for VMs, Databases, Storage, Machine Learning and more***](https://cloud.google.com/)
-
-### [***Colaboratory***](https://g.co/colab)
 
 ## `Agenda`
 Wednesday, 29 November 2017
