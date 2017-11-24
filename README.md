@@ -11,7 +11,6 @@
 
 #### **29 Nov 2017, 9am - 6pm**
 ###### [***The Stables 2 Trematon Walk, Kings Cross, N1 9FN, London***](https://goo.gl/maps/7zAo98pSzB82)
-### [**REGISTER**](https://www.eventbrite.co.uk/e/springer-nature-hack-day-advancing-discovery-with-published-research-data-tickets-38704016756)
 
 ***
 
