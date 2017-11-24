@@ -42,6 +42,11 @@ Provides a means to access information about Springer’s journals (e.g., Inform
 
 Provides metadata and full-text content where available for almost 12 million online documents. It contains Springer Journals and Books (including BMC), Palgrave Books and Journals
 
+[Sign-up](https://dev.springer.com/)
+
+Example:
+[http://api.springer.com/xmldata/app?q=book:%22Advances%20in%20Cryogenic%20Engineering%22&api_key=<your_key>&s=1&p=3](http://api.springer.com/xmldata/app?q=book:%22Advances%20in%20Cryogenic%20Engineering%22&api_key=<your_key>&s=1&p=3)
+
 ### Academic Knowledge API | Microsoft Azure
 
 Tap into the wealth of academic content in the Microsoft Academic Graph using the Academic Knowledge API.
