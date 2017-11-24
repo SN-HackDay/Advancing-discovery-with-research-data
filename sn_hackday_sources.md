@@ -29,6 +29,9 @@ Provides metadata and full-text content where available for more than 460,000 on
 
 [Sign-up](https://dev.springer.com/)
 
+Example:
+[http://api.springer.com/openaccess/app?q=doi:10.1007/s40204-015-0036-0&api_key=<your_key>](http://api.springer.com/openaccess/app?q=doi:10.1007/s40204-015-0036-0&api_key=<your_key>)
+
 ### Integro API
 
 Provides a means to access information about Springer’s journals (e.g., Information about the journal’s title, publisher, DOI, subject groups, dates of publication).
