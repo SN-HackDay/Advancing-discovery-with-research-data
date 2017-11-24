@@ -11,3 +11,24 @@ Contains metadata of all Journal Articles for last five years, both NPG and Spri
 Provides metadata for almost 12 million online documents (e.g., journal articles, book chapters, protocols). It contains Springer Journals and Books (including BMC).
 
 [Sign-up](https://dev.springer.com/)
+
+### Springer Meta API 
+Provides new versioned metadata for almost 12 million online documents (e.g., journal articles, book chapters, protocols). It contains Springer Journals and Books (including BMC).
+
+[Sign-up](https://dev.springer.com/)
+
+### Springer Open Access API
+
+Provides metadata and full-text content where available for more than 460,000 online documents. It contains Springer Journals and Books (including BMC). 
+
+[Sign-up](https://dev.springer.com/)
+
+### Integro API
+
+Provides a means to access information about Springer’s journals (e.g., Information about the journal’s title, publisher, DOI, subject groups, dates of publication).
+
+[Sign-up](https://dev.springer.com/)
+
+### Fulltext (xmldata) API
+
+Provides metadata and full-text content where available for almost 12 million online documents. It contains Springer Journals and Books (including BMC), Palgrave Books and Journals
