@@ -36,4 +36,5 @@ Provides metadata and full-text content where available for almost 12 million on
 ### Academic Knowledge API | Microsoft Azure
 
 Tap into the wealth of academic content in the Microsoft Academic Graph using the Academic Knowledge API.
+
 [More](https://azure.microsoft.com/en-gb/services/cognitive-services/academic-knowledge/)
