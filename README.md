@@ -60,8 +60,8 @@ Wednesday, 29 November 2017
 - 9 am: Reception with coffee and breakfast sandwiches
 - 9.30–9.40 am: Welcome by Henning Schoenenberger
 - 9.40 – 10.00 am: Springer Nature’s Research data vision by Grace Baynes
-- 10.00 – 10.30 am:	Present ideas and use cases to work on  and to create working tracks by Iain Hrynaszkiewicz
-- 10.30 – 11.00 am: Overview of data and content sources by Michele Pasin & Tomas Ramanauskas
+- 10.00 – 10.30 am: Overview of data and content sources by Michele Pasin & Tomas Ramanauskas
+- 10.30 – 11.00 am: Present ideas and use cases to work on  and to create working tracks by Iain Hrynaszkiewicz
 - 11.00 am – 5.00 pm: 6 hours hack sprint (food and drinks served throughout the event)
 - 5.00 - 5.45 pm: Presentation of results by Henning Schoenenberger – followed by award ceremony
 - 5.45 - 6.00 pm: Lessons learned & wrap up by Grace Baynes
