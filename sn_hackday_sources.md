@@ -44,6 +44,10 @@ Provides a means to access information about Springer’s journals (e.g., Inform
 
 [Sign-up](https://dev.springer.com/)
 
+Example:
+
+[http://api.springer.com/integro/v1/journaltitlesheet/10288?api_key=<your_key>](http://api.springer.com/integro/v1/journaltitlesheet/10288?api_key=<your_key>)
+
 ### Fulltext (xmldata) API
 
 Provides metadata and full-text content where available for almost 12 million online documents. It contains Springer Journals and Books (including BMC), Palgrave Books and Journals
