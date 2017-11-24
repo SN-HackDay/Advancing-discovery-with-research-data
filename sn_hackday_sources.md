@@ -2,11 +2,9 @@
 
 RDF repository containing bibliographic metadata for complete Springer Nature archive: 7M journal articles and 4M book chapters (including abstracts), grants related to these articles, subject tags, disambiguated affiliation data using GRID institutions identifiers, and mappings to other ontologies and taxonomies.  
 
-[SciGraph Data Explorer](http://scigraph.springernature.com/explorer/)
-
 [SciGraph Downloads](http://scigraph.springernature.com/explorer/downloads/)
 
-[SciGraph Ontology Documentation](http://scigraph.springernature.com/explorer/ontology/)
+[SciGraph Data Explorer](http://scigraph.springernature.com/explorer/)
 
 [SPARQL Queries Examples](https://github.com/springernature/scigraph/tree/master/2017Q2/hackday-2017-06-23/examples/graphdb)
 
