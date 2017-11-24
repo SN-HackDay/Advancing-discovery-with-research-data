@@ -64,3 +64,12 @@ Example:
 Tap into the wealth of academic content in the Microsoft Academic Graph using the Academic Knowledge API.
 
 [More](https://azure.microsoft.com/en-gb/services/cognitive-services/academic-knowledge/)
+
+### Figshare API
+
+Item and collection-level metadata for all data in figshare, including Springer Nature reseach data.
+
+[More](https://docs.figshare.com/#figshare_documentation_api_description)
+
+Examples:
+https://drive.google.com/file/d/1BvimvODkWZ34boqf1PpFgeiHTJh99MBQ/view?usp=sharing
