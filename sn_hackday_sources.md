@@ -1,10 +1,19 @@
 ### SciGraph Linked Data
 
-Contains metadata of all Journal Articles for last five years, both NPG and Springer, including abstracts, Grants related to these articles, subject tags (from NPG ontology as well as FOR codes)
+RDF repository containing bibliographic metadata for complete Springer Nature archive: 7M journal articles and 4M book chapters (including abstracts), grants related to these articles, subject tags, disambiguated affiliation data using GRID institutions identifiers, and mappings to other ontologies and taxonomies.  
 
-[Download datasets](http://scigraph.springernature.com/explorer/downloads/)
+[SciGraph Data Explorer](http://scigraph.springernature.com/explorer/)
 
-[Exploring SciGraph data using JSON-LD, Elastic Search and Kibana](http://www.michelepasin.org/blog/2017/04/06/exploring-scigraph-data-using-elastic-search-and-kibana/)
+[SciGraph Downloads](http://scigraph.springernature.com/explorer/downloads/)
+
+[SciGraph Ontology Documentation](http://scigraph.springernature.com/explorer/ontology/)
+
+[SPARQL Queries Examples](https://github.com/springernature/scigraph/tree/master/2017Q2/hackday-2017-06-23/examples/graphdb)
+
+[Tech recipe: Exploring SciGraph data using JSON-LD, Elastic Search and Kibana](http://www.michelepasin.org/blog/2017/04/06/exploring-scigraph-data-using-elastic-search-and-kibana/)
+
+> Note: this datasets are only available as RDF (N-Triples) downloads. They requires a triplestore (e.g. http://graphdb.ontotext.com is freely available) to load the data before processing.
+
 
 ### Springer Metadata API 
 
