@@ -20,6 +20,9 @@ Provides new versioned metadata for almost 12 million online documents (e.g., jo
 
 [Sign-up](https://dev.springer.com/)
 
+Example:
+[http://api.springer.com/meta/v1/json?q=doi:10.1007/s10404-009-0428-3&p=2&api_key=<your_key>](http://api.springer.com/meta/v1/json?q=doi:10.1007/s10404-009-0428-3&p=2&api_key=<your_key>)
+
 ### Springer Open Access API
 
 Provides metadata and full-text content where available for more than 460,000 online documents. It contains Springer Journals and Books (including BMC). 
