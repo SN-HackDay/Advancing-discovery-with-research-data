@@ -58,8 +58,7 @@ Data sources include:
 
 ### [***Google Cloud Platform is avaibale during hackday for VMs, Databases, Storage, Machine Learning and more***](https://cloud.google.com/)
 
-### [***Colaboratory (Jupyter notebook environment)***](https://colab.research.google.com)
-
+### [***Colaboratory***](https://g.co/colab)
 
 ## `Agenda`
 Wednesday, 29 November 2017
