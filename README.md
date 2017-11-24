@@ -49,9 +49,8 @@ Data sources include:
 - [EU PubMed Central Open Access subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
 - [Figshare](https://docs.figshare.com/)
 - [Registry of Research Data Repositories](https://www.re3data.org/api/doc)
-- Several Springer Nature APIs (available on the day and including fulltext access for 1000s of journals)
+- [Several Springer Nature APIs](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md) (available on the day and including fulltext access for 1000s of journals)
 
-### [***Access more about the content sources here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md)
 
 ### [***Chat room***](https://gitter.im/Springer-Nature-Hack-Day/Lobby)
 
