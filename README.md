@@ -38,7 +38,7 @@ Building on the success of the last Springer Nature SciGraph Hack Day, participa
 
 ### [***We already have some great suggested use cases and ideas, check them out here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/Themes_use_cases_and_ideas.md)
 
-## `What data and systems will be available?`
+## `What data, resources and tools are available?`
 
 ### We have a number of internal and external data sources which can be utilised during the hack.
 
