@@ -44,16 +44,20 @@ Building on the success of the last Springer Nature SciGraph Hack Day, participa
 
 Combined these sources provides access to data for 1000s of journal articles and associated data. Access to internal data sources is limited to the duration of the hack but provides unprecedented access to proprietary data. 
 Data sources include:
-- [DataCite](https://api.datacite.org/) 
+- [DataCite API](https://api.datacite.org/) 
 - [EU PubMed Central OAI](https://europepmc.org/OaiService)
 - [EU PubMed Central Open Access subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
-- [Figshare](https://docs.figshare.com/)
+- [Figshare API](https://docs.figshare.com/)
+- [Microsoft Azure Academic Knowledge API](https://azure.microsoft.com/en-gb/services/cognitive-services/academic-knowledge/)
 - [Registry of Research Data Repositories](https://www.re3data.org/api/doc)
 - [Several Springer Nature APIs](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md) (available on the day and including fulltext access for 1000s of journals)
 
+### [***Access information on all available sources here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md)
+
 ### Other tools
 
-* [***Chat room***](https://gitter.im/Springer-Nature-Hack-Day/Lobby)
+* [***Chat room***](https://gitter.im/Springer-Nature-Hack-Day/Lobby) 
+[![Join the chat at https://gitter.im/Springer-Nature-Hack-Day/Lobby](https://badges.gitter.im/Springer-Nature-Hack-Day/Lobby.svg)](https://gitter.im/Springer-Nature-Hack-Day/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [***Google Cloud Platform is avaibale during hackday for VMs, Databases, Storage, Machine Learning and more***](https://cloud.google.com/)
 * [***Colaboratory***](https://g.co/colab)
 
