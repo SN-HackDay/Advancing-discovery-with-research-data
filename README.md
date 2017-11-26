@@ -44,13 +44,14 @@ Building on the success of the last Springer Nature SciGraph Hack Day, participa
 
 Combined these sources provides access to data for 1000s of journal articles and associated data. Access to internal data sources is limited to the duration of the hack but provides unprecedented access to proprietary data. 
 Data sources include:
-- [DataCite API](https://api.datacite.org/) 
-- [EU PubMed Central OAI](https://europepmc.org/OaiService)
-- [EU PubMed Central Open Access subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
-- [Figshare API](https://docs.figshare.com/)
+- [DataCite API](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md#datacite-rest-api) 
+- [EU PubMed Central OAI](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md#eu-pubmed-central-oai)
+- [EU PubMed Central Open Access subset](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md#eu-pubmed-central-open-access-subset)
+- [Figshare API](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md#figshare-api)
 - [Microsoft Azure Academic Knowledge API](https://azure.microsoft.com/en-gb/services/cognitive-services/academic-knowledge/)
-- [Registry of Research Data Repositories](https://www.re3data.org/api/doc)
-- [Several Springer Nature APIs](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md) (available on the day and including fulltext access for 1000s of journals)
+- [Registry of Research Data Repositories](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md#registry-of-research-data-repositories-re3data-api)
+- [Several Springer Nature APIs](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md#fulltext-xmldata-api) (available on the day and including fulltext access for 1000s of journals)
+- [SciGraph Linked Data](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md#scigraph-linked-data)
 
 ### [***Access information on all available sources here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md)
 
