@@ -36,7 +36,7 @@ Building on the success of the last Springer Nature SciGraph Hack Day, participa
 - Data visualisation
 - Data curation
 
-### [***We already have some great suggested use cases and ideas, check them out here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/USE_CASES_AND_IDEAS.md)
+### [***We already have some great suggested use cases and ideas, check them out here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/Themes_use_cases_and_ideas.md)
 
 ## `What data and systems will be available?`
 
@@ -55,7 +55,7 @@ Data sources include:
 
 ### [***Access information on all available sources here***](https://github.com/SN-HackDay/Advancing-discovery-with-research-data/blob/master/sn_hackday_sources.md)
 
-### Other tools
+### `Collaboration tools`
 
 * [***Chat room***](https://gitter.im/Springer-Nature-Hack-Day/Lobby) 
 [![Join the chat at https://gitter.im/Springer-Nature-Hack-Day/Lobby](https://badges.gitter.im/Springer-Nature-Hack-Day/Lobby.svg)](https://gitter.im/Springer-Nature-Hack-Day/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
