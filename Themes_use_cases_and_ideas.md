@@ -1,5 +1,5 @@
 
-# **Use cases and ideas for potential hacks**
+# **Themes, use cases and ideas for hacks**
 
 ## `General themes`
 
