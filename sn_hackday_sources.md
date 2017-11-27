@@ -106,3 +106,8 @@ Tap into the wealth of academic content in the Microsoft Academic Graph using th
 
 [More](https://azure.microsoft.com/en-gb/services/cognitive-services/academic-knowledge/)
 
+### `Springer Nature recommended repository permanent identifer list`
+
+A list of Springer Nature's recommended repositories alongside the permanent identifier structures they use. This can be used to data mine links to data within e.g. article text to establish repository usage.
+
+[Access](https://docs.google.com/spreadsheets/d/1zjoFhMhTL0uz9kWkAqQOrUQw4OjydxR0sMmnaoqNnOQ/edit?usp=sharing)
