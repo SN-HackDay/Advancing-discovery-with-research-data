@@ -33,7 +33,7 @@
 | Automatically generate metadata for submitted datasets | Data curation (tool/application for data publishing) | Repository APIs e.g. figshare, subject taxonomies |
 | Create focused resources from general repositories for specific types of data/files/disciplines e.g. image files in medicine | Data linking, Data curation (tool/application) | Repository APIs e.g. figshare, subject taxonomies |
 | Develop machine learning techniques for image files | Data curation (machine learning/AI) | Repository APIs e.g. figshare, subject taxonomies |
-| Find most commonly used and referenced repository software platforms (DSpace, Fedora etc) | Data curation, Data linking | Repository list APIs, article full texts |
+| Find most commonly used and referenced repository software platforms (DSpace, Fedora etc) | Data curation, Data linking | Repository list APIs, article full texts, re3data |
 | Mining data citations from conference proceedings | Data linking, Data visualisation | DataCite API, Sci Graph, full text APIs, metadata APIs |
 
 ## `User stories and related ideas for hacks`
