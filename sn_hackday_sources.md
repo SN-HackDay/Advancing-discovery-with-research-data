@@ -104,7 +104,8 @@ re3data.org supports the retrievial of its content about repositories via API. C
 
 Tap into the wealth of academic content in the Microsoft Academic Graph using the Academic Knowledge API.
 
-[More](https://azure.microsoft.com/en-gb/services/cognitive-services/academic-knowledge/)
+[Access API](https://azure.microsoft.com/en-gb/services/cognitive-services/academic-knowledge/)
+[More](https://docs.microsoft.com/en-gb/azure/cognitive-services/academic-knowledge/home)
 
 ### `Springer Nature recommended repository permanent identifer list`
 
