@@ -1,6 +1,8 @@
 
 # **Themes, use cases and ideas for hacks**
 
+*You can also find the information in this section in this Google doc (feel free to edit):* https://docs.google.com/document/d/1A9IAjBqXZQjrPdwnrDC3DjLWs-mdkUrB8lbvmVGdY0E/edit?usp=sharing
+
 ## `General themes`
 
 * Data linking
