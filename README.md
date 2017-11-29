@@ -4,8 +4,6 @@
 
 # Welcome to the **Springer Nature Hack Day: Advancing discovery with published research data**!
 
-=======
-
 #### **29 Nov 2017, 9am - 6pm**
 ###### [***The Stables 2 Trematon Walk, Kings Cross, N1 9FN, London***](https://goo.gl/maps/7zAo98pSzB82)
 
