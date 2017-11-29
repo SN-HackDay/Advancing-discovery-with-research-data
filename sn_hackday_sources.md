@@ -66,6 +66,7 @@ Example:
 The DataCite REST API allows users to retrieve, query and browse DataCite DOI metadata records. The API is generally RESTFUL and returns results in JSON, and the API follows the JSONAPI specification. 
 
 [Access API](https://api.datacite.org/)
+[Documentation](https://support.datacite.org/docs/api
 
 ### `Figshare API`
 
